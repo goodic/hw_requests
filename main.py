@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = '2619421814940190'
+TOKEN = ''
 url = 'https://superheroapi.com/api/' + TOKEN
 heroes = ['Hulk', 'Captain America', 'Thanos']
 
